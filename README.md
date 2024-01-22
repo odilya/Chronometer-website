@@ -5,5 +5,5 @@ This project offers you a website developed in HTML, CSS and JavaScript, enablin
 - In the style.css file, you'll find the design of the site's page content. 
 - Finally, in the script.js file, you'll find the functionalities for the chronometer
 
-- ![Capture site web chronometer](https://github.com/odilya/Chronometer-website/assets/54360665/3356551f-4a00-402a-9d9c-690bbdbd9099)
+![Capture site web chronometer](https://github.com/odilya/Chronometer-website/assets/54360665/3356551f-4a00-402a-9d9c-690bbdbd9099)
 
